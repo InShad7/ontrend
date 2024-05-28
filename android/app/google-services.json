@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "520975421558",
+    "project_id": "ontrend-7d4e5",
+    "storage_bucket": "ontrend-7d4e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520975421558:android:87aa4005ebdcee84440f57",
+        "android_client_info": {
+          "package_name": "com.example.ontrend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA-N6llNdA3PtoSRpufCczfatCo_iXslQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
